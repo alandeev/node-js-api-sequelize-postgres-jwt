@@ -1,6 +1,6 @@
 # node-js-api-sequelize-postgres-jwt
 
-*Api with node-js using Sequelize to manipulate database postgres_*
+*Api with node-js using Sequelize to manipulate database postgres and jwt token*
 
 #Install#
 
